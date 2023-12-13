@@ -1,8 +1,13 @@
 {
   "devMode": "false",
-  "advancedMode": "false",
+  "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "Julius-Ulee",
+    "King-Genshin-StarRail-Stats",
+    "School-Programs",
+    "Status-Page-Advanced",
+    "My-Awesome-Stars",
+    "AmeliaBot-Discord"
   ]
 }
