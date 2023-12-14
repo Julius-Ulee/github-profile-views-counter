@@ -115,9 +115,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/605888225/small/week.png" height="20"> 64
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/676328906/week.md">
+				Announcements-Anime
+			</a>
+		</td>
+		<td>
+			2023/12/11 2:23 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/676328906/small/week.png" height="20"> 12
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/14 1:08 AM UTC</i></small>
+<small><i>Last updated on 2023/12/14 2:23 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
