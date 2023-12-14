@@ -21,18 +21,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/306456465/week.md">
-				Julius-Ulee
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/730933649/week.md">
+				github-profile-views-counter
 			</a>
 		</td>
 		<td>
-			2023/12/12 2:01 AM UTC
+			2023/12/12 2:44 AM UTC
 		</td>
 		<td>
-			10
+			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/306456465/small/week.png" height="20"> 110
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/730933649/small/week.png" height="20"> 67
 		</td>
 	</tr>
 	<tr>
@@ -53,22 +53,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/702971902/week.md">
-				School-Programs
-			</a>
-		</td>
-		<td>
-			2023/12/12 2:02 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 86
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/686961797/week.md">
 				Status-Page-Advanced
 			</a>
@@ -81,6 +65,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/686961797/small/week.png" height="20"> 28
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/676328906/week.md">
+				Announcements-Anime
+			</a>
+		</td>
+		<td>
+			2023/12/12 2:23 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/676328906/small/week.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/702971902/week.md">
+				School-Programs
+			</a>
+		</td>
+		<td>
+			2023/12/12 2:02 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 86
 		</td>
 	</tr>
 	<tr>
@@ -117,28 +133,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/676328906/week.md">
-				Announcements-Anime
-			</a>
-		</td>
-		<td>
-			2023/12/12 2:23 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/676328906/small/week.png" height="20"> 12
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/662145992/week.md">
 				julius-ulee.github.io
 			</a>
 		</td>
 		<td>
-			2023/12/11 2:44 AM UTC
+			2023/12/12 2:44 AM UTC
 		</td>
 		<td>
 			2
@@ -147,25 +147,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/662145992/small/week.png" height="20"> 16
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/730933649/week.md">
-				github-profile-views-counter
-			</a>
-		</td>
-		<td>
-			2023/12/11 2:44 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/730933649/small/week.png" height="20"> 67
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/14 2:44 AM UTC</i></small>
+<small><i>Last updated on 2023/12/14 2:49 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
