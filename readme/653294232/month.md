@@ -178,10 +178,10 @@
 			<code>2023/12/5</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>30</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -363,7 +363,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/19 6:19 AM UTC</i></small>
+<small><i>Last updated on 2023/12/19 12:29 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
