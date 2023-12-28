@@ -1,8 +1,8 @@
 ## [🔙 github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter)
-| [**Week →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md) | [**Month →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/721026879/month.md) | [**Year →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/721026879/year.md) |
+| [**Week →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md) | [**Month →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/month.md) | [**Year →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [My-Awesome-Stars](https://github.com/Julius-Ulee/My-Awesome-Stars)
-![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/721026879/large/year.png)
+### :octocat: [Daily-Weather](https://github.com/Julius-Ulee/Daily-Weather)
+![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>24</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>112</code>
+			<code>4</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2023/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -169,14 +169,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/721026879/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md)
+[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/721026879/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md)
+[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md)
 ```
 ### Header
-# My-Awesome-Stars [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/721026879/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md)
+# Daily-Weather [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md)
 ```readme
-# My-Awesome-Stars [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/721026879/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md)
+# Daily-Weather [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

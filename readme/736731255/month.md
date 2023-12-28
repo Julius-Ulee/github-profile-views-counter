@@ -1,8 +1,8 @@
 ## [🔙 github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter)
-| [**Week →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md) | [**Month →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/month.md) | [**Year →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/year.md) |
+| [**Week →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md) | [**Month →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/month.md) | [**Year →**](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats)
-![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/large/month.png)
+### :octocat: [Daily-Weather](https://github.com/Julius-Ulee/Daily-Weather)
+![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2023/12/28</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>107</code>
+			<code>4</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2023/12/27</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>67</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -46,10 +46,10 @@
 			<code>2023/12/26</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -57,10 +57,10 @@
 			<code>2023/12/25</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +68,10 @@
 			<code>2023/12/24</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>27</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2023/12/23</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -90,10 +90,10 @@
 			<code>2023/12/22</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>79</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -101,10 +101,10 @@
 			<code>2023/12/21</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -112,10 +112,10 @@
 			<code>2023/12/20</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -123,10 +123,10 @@
 			<code>2023/12/19</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -145,10 +145,10 @@
 			<code>2023/12/17</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -156,10 +156,10 @@
 			<code>2023/12/16</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -167,10 +167,10 @@
 			<code>2023/12/15</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -178,10 +178,10 @@
 			<code>2023/12/14</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -189,10 +189,10 @@
 			<code>2023/12/13</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -200,10 +200,10 @@
 			<code>2023/12/12</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -211,10 +211,10 @@
 			<code>2023/12/11</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -222,10 +222,10 @@
 			<code>2023/12/10</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -233,10 +233,10 @@
 			<code>2023/12/9</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -244,10 +244,10 @@
 			<code>2023/12/8</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -255,10 +255,10 @@
 			<code>2023/12/7</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -266,10 +266,10 @@
 			<code>2023/12/6</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -277,10 +277,10 @@
 			<code>2023/12/5</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -288,10 +288,10 @@
 			<code>2023/12/4</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -299,10 +299,10 @@
 			<code>2023/12/3</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -310,10 +310,10 @@
 			<code>2023/12/2</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -321,10 +321,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -332,10 +332,10 @@
 			<code>2023/11/30</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -343,10 +343,10 @@
 			<code>2023/11/29</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -367,14 +367,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
+[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/653294232/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
+[![Image of github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg)](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md)
 ```
 ### Header
-# King-Genshin-StarRail-Stats [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
+# Daily-Weather [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md)
 ```readme
-# King-Genshin-StarRail-Stats [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/653294232/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/653294232/week.md)
+# Daily-Weather [<img alt="Image of github-profile-views-counter" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png" height="20">](https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/readme/736731255/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
