@@ -70,7 +70,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/736731255/week.md">
-				Daily-Weather
+				Daily-Weather-Report
 			</a>
 		</td>
 		<td>
@@ -149,7 +149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/29 6:20 AM UTC</i></small>
+<small><i>Last updated on 2023/12/29 12:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
