@@ -53,6 +53,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/738176371/week.md">
+				Announcements-Anime
+			</a>
+		</td>
+		<td>
+			2023/12/31 5:18 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/738176371/small/week.png" height="20"> 64
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/686961797/week.md">
 				Status-Page-Advanced
 			</a>
@@ -85,22 +101,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/738176371/week.md">
-				Announcements-Anime
-			</a>
-		</td>
-		<td>
-			2023/12/30 5:18 PM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/738176371/small/week.png" height="20"> 64
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/702971902/week.md">
 				School-Programs
 			</a>
@@ -113,22 +113,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 201
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/721026879/week.md">
-				My-Awesome-Stars
-			</a>
-		</td>
-		<td>
-			2023/12/31 1:12 AM UTC
-		</td>
-		<td>
-			29
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/721026879/small/week.png" height="20"> 185
 		</td>
 	</tr>
 	<tr>
@@ -149,6 +133,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/721026879/week.md">
+				My-Awesome-Stars
+			</a>
+		</td>
+		<td>
+			2023/12/31 1:12 AM UTC
+		</td>
+		<td>
+			29
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/721026879/small/week.png" height="20"> 185
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/662145992/week.md">
 				julius-ulee.github.io
 			</a>
@@ -165,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/2 5:18 PM UTC</i></small>
+<small><i>Last updated on 2024/1/2 5:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
