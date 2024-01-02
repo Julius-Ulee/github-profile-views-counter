@@ -85,6 +85,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/738176371/week.md">
+				Announcements-Anime
+			</a>
+		</td>
+		<td>
+			2023/12/30 5:18 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/738176371/small/week.png" height="20"> 64
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/702971902/week.md">
 				School-Programs
 			</a>
@@ -149,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/2 12:29 PM UTC</i></small>
+<small><i>Last updated on 2024/1/2 5:18 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
