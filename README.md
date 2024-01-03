@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 12:00 AM UTC
+			2024/1/1 12:00 AM UTC
 		</td>
 		<td>
-			24
+			25
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/730933649/small/week.png" height="20"> 406
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/730933649/small/week.png" height="20"> 408
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 12:00 AM UTC
+			2024/1/1 12:00 AM UTC
 		</td>
 		<td>
-			67
+			71
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/653294232/small/week.png" height="20"> 750
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/653294232/small/week.png" height="20"> 763
 		</td>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 5:18 PM UTC
+			2024/1/1 5:18 PM UTC
 		</td>
 		<td>
 			1
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 12:00 AM UTC
+			2024/1/1 1:14 AM UTC
 		</td>
 		<td>
 			28
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 12:00 AM UTC
+			2024/1/1 12:00 AM UTC
 		</td>
 		<td>
-			6
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/736731255/small/week.png" height="20"> 764
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/736731255/small/week.png" height="20"> 1018
 		</td>
 	</tr>
 	<tr>
@@ -106,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 1:12 AM UTC
+			2024/1/1 12:00 AM UTC
 		</td>
 		<td>
-			13
+			14
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 201
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 215
 		</td>
 	</tr>
 	<tr>
@@ -122,13 +122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 1:12 AM UTC
+			2024/1/1 12:00 AM UTC
 		</td>
 		<td>
-			21
+			23
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/605888225/small/week.png" height="20"> 121
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/605888225/small/week.png" height="20"> 132
 		</td>
 	</tr>
 	<tr>
@@ -138,13 +138,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 1:12 AM UTC
+			2024/1/1 12:00 AM UTC
 		</td>
 		<td>
-			29
+			30
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/721026879/small/week.png" height="20"> 185
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/721026879/small/week.png" height="20"> 186
 		</td>
 	</tr>
 	<tr>
@@ -154,18 +154,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/31 12:00 AM UTC
+			2024/1/1 12:00 AM UTC
 		</td>
 		<td>
-			6
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/662145992/small/week.png" height="20"> 47
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/662145992/small/week.png" height="20"> 49
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/2 6:20 PM UTC</i></small>
+<small><i>Last updated on 2024/1/3 1:08 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
