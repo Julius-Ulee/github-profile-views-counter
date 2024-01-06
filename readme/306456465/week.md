@@ -21,96 +21,96 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2023/12/14</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/12/13</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/12/12</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/12/11</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/12/10</code>
+			<code>2024/1/6</code>
 		</td>
 		<td>
 			<code>1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>13</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/12/9</code>
-		</td>
-		<td>
-			<code>1</code>
+			<code>2024/1/5</code>
 		</td>
 		<td>
 			<code>2</code>
 		</td>
-	</tr>
-	<tr>
 		<td>
-			<code>2023/12/8</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
+			<code>29</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/12/7</code>
+			<code>2024/1/4</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+		<td>
+			<code>30</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/1/3</code>
 		</td>
 		<td>
 			<code>1</code>
 		</td>
 		<td>
-			<code>67</code>
+			<code>251</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/1/2</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>20</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/1/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/12/31</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>3</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/12/30</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>49</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/14 2:43 AM UTC</i></small>
+<small><i>Last updated on 2024/1/6 8:09 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
