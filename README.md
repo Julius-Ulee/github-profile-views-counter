@@ -21,6 +21,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/730933649/week.md">
+				github-profile-views-counter
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:49 AM UTC
+		</td>
+		<td>
+			95
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/730933649/small/week.png" height="20"> 702
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/653294232/week.md">
+				King-Genshin-StarRail-Stats
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:50 AM UTC
+		</td>
+		<td>
+			741
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/653294232/small/week.png" height="20"> 6324
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/738176371/week.md">
 				Announcements-Anime
 			</a>
@@ -69,6 +101,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/306456465/week.md">
+				Julius-Ulee
+			</a>
+		</td>
+		<td>
+			2025/8/12 1:50 AM UTC
+		</td>
+		<td>
+			146
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/306456465/small/week.png" height="20"> 3222
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/702971902/week.md">
 				School-Programs
 			</a>
@@ -81,6 +129,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 2449
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/605888225/week.md">
+				AmeliaBot-Discord
+			</a>
+		</td>
+		<td>
+			2025/8/12 12:00 AM UTC
+		</td>
+		<td>
+			301
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/605888225/small/week.png" height="20"> 1699
 		</td>
 	</tr>
 	<tr>
@@ -117,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/14 6:35 AM UTC</i></small>
+<small><i>Last updated on 2025/8/14 12:49 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
