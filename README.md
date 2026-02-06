@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:48 AM UTC
+			2026/2/4 5:48 AM UTC
 		</td>
 		<td>
 			95
@@ -37,28 +37,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/653294232/week.md">
-				King-Genshin-StarRail-Stats
-			</a>
-		</td>
-		<td>
-			2026/2/3 12:00 AM UTC
-		</td>
-		<td>
-			773
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/653294232/small/week.png" height="20"> 6368
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/738176371/week.md">
 				Announcements-Anime
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:49 AM UTC
+			2026/2/4 5:49 AM UTC
 		</td>
 		<td>
 			205
@@ -74,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:49 AM UTC
+			2026/2/4 5:49 AM UTC
 		</td>
 		<td>
 			153
@@ -90,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:49 AM UTC
+			2026/2/4 5:49 AM UTC
 		</td>
 		<td>
 			250
@@ -106,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:49 AM UTC
+			2026/2/4 5:49 AM UTC
 		</td>
 		<td>
 			150
@@ -122,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:49 AM UTC
+			2026/2/4 5:49 AM UTC
 		</td>
 		<td>
 			113
@@ -138,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:49 AM UTC
+			2026/2/4 5:49 AM UTC
 		</td>
 		<td>
 			325
@@ -154,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:49 AM UTC
+			2026/2/4 5:49 AM UTC
 		</td>
 		<td>
 			88
@@ -170,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/3 5:49 AM UTC
+			2026/2/4 5:49 AM UTC
 		</td>
 		<td>
 			46
@@ -181,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/5 6:55 PM UTC</i></small>
+<small><i>Last updated on 2026/2/6 2:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
