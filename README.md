@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/653294232/week.md">
+				King-Genshin-StarRail-Stats
+			</a>
+		</td>
+		<td>
+			2026/2/4 12:00 AM UTC
+		</td>
+		<td>
+			774
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Julius-Ulee/github-profile-views-counter/raw/master/graph/653294232/small/week.png" height="20"> 6369
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Julius-Ulee/github-profile-views-counter/tree/master/readme/738176371/week.md">
 				Announcements-Anime
 			</a>
@@ -165,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/6 2:24 AM UTC</i></small>
+<small><i>Last updated on 2026/2/6 7:00 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
