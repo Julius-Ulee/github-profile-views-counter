@@ -166,7 +166,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/King-Ulee/github-profile-views-counter/tree/master/readme/1222741498/week.md">
-				kingulee.com
+				azriel.id
 			</a>
 		</td>
 		<td>
@@ -181,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/5/8 3:24 AM UTC</i></small>
+<small><i>Last updated on 2026/5/8 7:46 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

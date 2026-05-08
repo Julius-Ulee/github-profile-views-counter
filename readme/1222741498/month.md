@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter)
 | [**Week →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/week.md) | [**Month →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/month.md) | [**Year →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [kingulee.com](https://github.com/King-Ulee/kingulee.com)
+### :octocat: [azriel.id](https://github.com/King-Ulee/azriel.id)
 ![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1222741498/large/month.png)
 
 <details>
@@ -363,7 +363,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/5/8 3:24 AM UTC</i></small>
+<small><i>Last updated on 2026/5/8 7:46 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -372,9 +372,9 @@
 [![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/1222741498/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/week.md)
 ```
 ### Header
-# kingulee.com [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1222741498/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/week.md)
+# azriel.id [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1222741498/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/week.md)
 ```readme
-# kingulee.com [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1222741498/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/week.md)
+# azriel.id [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/1222741498/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
