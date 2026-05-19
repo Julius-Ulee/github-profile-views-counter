@@ -1,8 +1,8 @@
-## [🔙 github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter)
-| [**Week →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md) | [**Month →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/721026879/month.md) | [**Year →**](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/721026879/year.md) |
+## [🔙 github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter)
+| [**Week →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/721026879/week.md) | [**Month →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/721026879/month.md) | [**Year →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/721026879/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [My-Awesome-Stars](https://github.com/King-Ulee/My-Awesome-Stars)
-![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/721026879/large/year.png)
+### :octocat: [My-Awesome-Stars](https://github.com/0zunu/My-Awesome-Stars)
+![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/graph/721026879/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -165,18 +165,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/5/19 3:51 AM UTC</i></small>
+<small><i>Last updated on 2026/5/19 9:51 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/721026879/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/721026879/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/721026879/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/721026879/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/721026879/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/721026879/week.md)
 ```
 ### Header
-# My-Awesome-Stars [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/721026879/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md)
+# My-Awesome-Stars [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/721026879/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/721026879/week.md)
 ```readme
-# My-Awesome-Stars [<img alt="Image of github-profile-views-counter" src="https://github.com/King-Ulee/github-profile-views-counter/blob/master/graph/721026879/small/week.png" height="20">](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/721026879/week.md)
+# My-Awesome-Stars [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/721026879/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/721026879/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
