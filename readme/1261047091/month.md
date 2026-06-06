@@ -1,8 +1,8 @@
 ## [🔙 github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter)
-| [**Week →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/702971902/week.md) | [**Month →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/702971902/month.md) | [**Year →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/702971902/year.md) |
+| [**Week →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md) | [**Month →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/month.md) | [**Year →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [School-Programs](https://github.com/0zunu/School-Programs)
-![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/graph/702971902/large/month.png)
+### :octocat: [monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
+![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1261047091/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -101,10 +101,10 @@
 			<code>2026/5/30</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -112,10 +112,10 @@
 			<code>2026/5/29</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -156,10 +156,10 @@
 			<code>2026/5/25</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -367,14 +367,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/702971902/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/702971902/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/1261047091/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/702971902/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/702971902/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/1261047091/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md)
 ```
 ### Header
-# School-Programs [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/702971902/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/702971902/week.md)
+# monitoring-all-website [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1261047091/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md)
 ```readme
-# School-Programs [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/702971902/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/702971902/week.md)
+# monitoring-all-website [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1261047091/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,8 +1,8 @@
 ## [🔙 github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter)
-| [**Week →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/730933649/week.md) | [**Month →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/730933649/month.md) | [**Year →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/730933649/year.md) |
+| [**Week →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md) | [**Month →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/month.md) | [**Year →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter)
-![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/graph/730933649/large/week.png)
+### :octocat: [monitoring-all-website](https://github.com/0zunu/monitoring-all-website)
+![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1261047091/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -110,18 +110,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/6/6 9:54 AM UTC</i></small>
+<small><i>Last updated on 2026/6/6 9:55 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/730933649/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/730933649/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/1261047091/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/730933649/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/730933649/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/1261047091/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md)
 ```
 ### Header
-# github-profile-views-counter [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/730933649/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/730933649/week.md)
+# monitoring-all-website [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1261047091/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md)
 ```readme
-# github-profile-views-counter [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/730933649/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/730933649/week.md)
+# monitoring-all-website [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1261047091/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1261047091/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
