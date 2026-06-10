@@ -99,9 +99,105 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1261047091/small/week.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/736731255/week.md">
+				Daily-Weather-Report
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:16 AM UTC
+		</td>
+		<td>
+			274
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/736731255/small/week.png" height="20"> 3585
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/702971902/week.md">
+				School-Programs
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:16 AM UTC
+		</td>
+		<td>
+			129
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 2471
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/605888225/week.md">
+				AmeliaBot-Discord
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:16 AM UTC
+		</td>
+		<td>
+			350
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/605888225/small/week.png" height="20"> 1808
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/721026879/week.md">
+				My-Awesome-Stars
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:16 AM UTC
+		</td>
+		<td>
+			90
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/721026879/small/week.png" height="20"> 350
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/306456465/week.md">
+				0zunu
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:16 AM UTC
+		</td>
+		<td>
+			216
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/306456465/small/week.png" height="20"> 3295
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1222741498/week.md">
+				azriel.id
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:16 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1222741498/small/week.png" height="20"> 6
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 3:41 PM UTC</i></small>
+<small><i>Last updated on 2026/6/10 8:34 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
