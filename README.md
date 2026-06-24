@@ -69,6 +69,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/686961797/week.md">
+				Status-Page-Advanced
+			</a>
+		</td>
+		<td>
+			2026/6/22 4:42 AM UTC
+		</td>
+		<td>
+			217
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/686961797/small/week.png" height="20"> 969
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1261047091/week.md">
 				monitoring-all-website
 			</a>
@@ -181,7 +197,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/24 2:36 PM UTC</i></small>
+<small><i>Last updated on 2026/6/24 7:50 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
