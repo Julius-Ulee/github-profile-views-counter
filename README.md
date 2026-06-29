@@ -165,22 +165,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/306456465/week.md">
-				0zunu
-			</a>
-		</td>
-		<td>
-			2026/6/27 12:00 AM UTC
-		</td>
-		<td>
-			221
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/306456465/small/week.png" height="20"> 3302
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1222741498/week.md">
 				azriel.id
 			</a>
@@ -197,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/29 11:05 AM UTC</i></small>
+<small><i>Last updated on 2026/6/29 3:51 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
