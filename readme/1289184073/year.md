@@ -1,8 +1,8 @@
 ## [🔙 github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter)
-| [**Week →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/653294232/week.md) | [**Month →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/653294232/month.md) | [**Year →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/653294232/year.md) |
+| [**Week →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/week.md) | [**Month →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/month.md) | [**Year →**](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [King-Genshin-StarRail-Stats](https://github.com/0zunu/King-Genshin-StarRail-Stats)
-![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/graph/653294232/large/year.png)
+### :octocat: [azriel.id](https://github.com/0zunu/azriel.id)
+![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1289184073/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -35,10 +35,10 @@
 			<code>2026/6/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -46,10 +46,10 @@
 			<code>2026/5/1</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -57,10 +57,10 @@
 			<code>2026/4/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +68,10 @@
 			<code>2026/3/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2026/2/1</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -90,10 +90,10 @@
 			<code>2026/1/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -112,10 +112,10 @@
 			<code>2025/11/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -123,10 +123,10 @@
 			<code>2025/10/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -134,10 +134,10 @@
 			<code>2025/9/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -145,10 +145,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -156,27 +156,27 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/7/4 1:38 PM UTC</i></small>
+<small><i>Last updated on 2026/7/4 1:39 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/653294232/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/653294232/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/1289184073/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/653294232/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/653294232/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/1289184073/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/week.md)
 ```
 ### Header
-# King-Genshin-StarRail-Stats [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/653294232/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/653294232/week.md)
+# azriel.id [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1289184073/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/week.md)
 ```readme
-# King-Genshin-StarRail-Stats [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/653294232/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/653294232/week.md)
+# azriel.id [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1289184073/small/week.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
